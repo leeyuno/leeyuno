@@ -32,4 +32,5 @@
 * 채용서비스
 * SNS기반 채용서비스로 사용자들이 Q&A, 포스팅 등을 통해 본인의 커리어를 어필할 수 있는 포트폴리오를 제작하고 그 포트폴리오를 통해 채용을 진행 시켜주는 서비스
 * 모든 직업에서 사용할 수 있는 깃헙, 스택오버플로우 서비스
-* Alamofire, Kingfisher, Codable, Firebase, APNS, Sign in with Apple, 카카오 로그인, 카카오 메시지, Share(트위터, 인스타그램, 페이스북), WkWebKit, WYSIWYG
+* 기획부터 참여 개발, 출시 까지 
+* Alamofire, Kingfisher, Codable, Firebase, APNS, Sign in with Apple, 카카오 로그인, 카카오 메시지, Share(트위터, 인스타그램, 페이스북), WkWebKit, WYSIWYG, VIPER
