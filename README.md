@@ -16,18 +16,23 @@
 ## 나비엔 스마트 통합앱
 * 경동나비엔의 국내 서비스 통합 앱
 * 스마트톡 + 나비엔메이트 + 에어원
+* MQTT, AWS IOT CORE, RxSwift, CleanArchitecture, MVVM-C
 
 ## 나비엔 메이트
 * 국내에서 서비스 중인 온수매트 앱
+* MQTT, AWS IOT CORE
 
 ## 에어원
 * 국내에서 서비스 중인 청정환기 앱
+* MQTT, AWS IOT CORE
 
 ## 스마트 플러스
-* 영국엣 서비스 중이 보일ㄹ 앱
+* 영국엣 서비스 중이 보일러 앱
+* MQTT, COCOA MQTT
 
 ## 나비링크
 * 미국에서 서비스 중인 보일러 앱
+* MQTT, AWS IOT CORE
 
 ## 프로젝트
 
