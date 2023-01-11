@@ -10,7 +10,7 @@
 ## 2021.08 ~
 #### 경동나비엔
 
-# AWS IOT Core, MQTT, Bluetooth, Socket, IOT
+# AWS IOT Core, MQTT, Bluetooth, Socket, IOT, RxSwift, CleanArchitecture, MVVM-C
 
 ## 프로젝트
 ## 나비엔 스마트 통합앱
