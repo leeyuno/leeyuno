@@ -10,13 +10,18 @@
 ## 2021.08 ~
 #### 경동나비엔
 
-# AWS IOT Core, MQTT, Bluetooth, Socket, IOT, RxSwift, CleanArchitecture, MVVM-C
+# AWS IOT Core, MQTT, Bluetooth, Socket, IOT, RxSwift, CleanArchitecture, MVVM-C, Combine, Firebase
 
 ## 프로젝트
 ## 나비엔 스마트 통합앱
 * 경동나비엔의 국내 서비스 통합 앱
-* 스마트톡 + 나비엔메이트 + 에어원
+* 국내 판매되는 보일러, 숙면매트, 환기청정기, Scada 제품을 제어하는 IoT 앱
 * MQTT, AWS IOT CORE, RxSwift, CleanArchitecture, MVVM-C
+
+* ## 나비링크
+* 미국에서 서비스 중인 IoT 기기제어 앱
+* 미국에서 판매되는 보일러, 온수기, 히트펌프, A/C, Furnace, Thermostats 제품을 제어하는 IoT 앱
+* MQTT, AWS IOT CORE, Combine, CleanArchitecture, MVVM-C
 
 ## 나비엔 메이트
 * 국내에서 서비스 중인 온수매트 앱
@@ -24,15 +29,12 @@
 
 ## 에어원
 * 국내에서 서비스 중인 청정환기 앱
+* IoT로 환기청정기를 제어하고 공기질 상태를
 * MQTT, AWS IOT CORE
 
 ## 스마트 플러스
 * 영국엣 서비스 중이 보일러 앱
 * MQTT, COCOA MQTT
-
-## 나비링크
-* 미국에서 서비스 중인 보일러 앱
-* MQTT, AWS IOT CORE
 
 ## 프로젝트
 
